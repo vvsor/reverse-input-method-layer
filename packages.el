@@ -10,7 +10,7 @@
   '((reverse-input-method
      :location (recipe
                 :fetcher github
-                :repo "avkorablev/reverse-input-method-package"
+                :repo "vvsor/reverse-input-method-package"
                 :files ("reverse-input-method.el")))))
 
 (defun reverse-input-method/init-reverse-input-method ()
